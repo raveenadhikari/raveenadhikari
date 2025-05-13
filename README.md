@@ -41,7 +41,7 @@ I'm always eager to learn and expand my skillset:
 I'm always open to collaborating on interesting projects or discussing technology. Feel free to reach out!
 
 *   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raveenadhikari/) <!-- Check if this is your correct LinkedIn profile URL -->
-*   [![Website](https://img.shields.io/badge/Portfolio-raveenadhikari.com-blue?style=for-the-badge)](https://raveenadhikari.com) <!-- Update if you have a different portfolio URL -->
+*   [![Website](https://img.shields.io/badge/Portfolio-raveenadhikari.com-blue?style=for-the-badge)](https://raveenadhikari.vercel.app/) <!-- Update if you have a different portfolio URL -->
 *   [![Email](https://img.shields.io/badge/Email-raveenrandika999@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raveenrandika999@gmail.com)
 
 ---

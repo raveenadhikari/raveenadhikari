@@ -1,7 +1,9 @@
 # Hi there, I'm Raveen Adhikari 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo5cW5jbnZ5dGl4cHBoZzNpcG5nOTQ1ZnVrbTNtdzU3dzRta25hcyZlcD12ZnBfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1pbx/giphy.gif" width="300"/>
+  <!-- ⭐ REPLACE placeholder-banner-gif-url.gif WITH THE RAW GITHUB URL FOR YOUR BANNER GIF ⭐ -->
+  <img src="placeholder-banner-gif-url.gif" width="400" alt="Coding Banner GIF"/>
+  <!-- Example: <img src="https://raw.githubusercontent.com/raveenadhikari/raveenadhikari/main/assets/my_cool_banner.gif" width="400"/> -->
 </p>
 
 I'm a final-year **Electronics and IT** undergraduate at the **University of Colombo**, passionate about building impactful software solutions. My journey spans across **Full-Stack Development**, **Mobile Applications**, **AI/Machine Learning**, and **Embedded Systems/Robotics**. I thrive on tackling challenges and transforming ideas into reality through code.
@@ -101,7 +103,10 @@ Here are some projects I've enjoyed building:
 
 *   **[Autonomous Inspection Robot](https://github.com/raveenadhikari/Autonomous-inspection-robot)** `(ESP32, C++, Python, OpenCV, YOLOv3, LoRa)`: Built a wireless robot for real-time video streaming, object detection, and remote navigation via a custom GUI.
     <p align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Vka2xkdXh6cGl0OWJtbGZjd3p3d2x4c3RkMm0xZ2k2bXp6ZzM0eSZlcD12ZnBfYnlfaWQmY3Q9Zw/jdPMO6IQutdVv4MRT9/giphy.gif" width="250"/>
+      <!-- ⭐ REPLACE placeholder-robot-gif-url.gif WITH THE RAW GITHUB URL FOR YOUR ROBOT/PROJECT GIF (Optional) ⭐ -->
+      <img src="placeholder-robot-gif-url.gif" width="250" alt="Robot Project GIF"/>
+      <!-- Example: <img src="https://raw.githubusercontent.com/raveenadhikari/raveenadhikari/main/assets/my_robot_project.gif" width="250"/> -->
+      <!-- OR remove this <p> block entirely if you don't want a GIF here -->
     </p>
 *   **[HealthPeek - Metabolic Syndrome Predictor](https://github.com/raveenadhikari/HealthPeak-API)** `(Python, FastAPI, Scikit-learn, Next.js, React)`: Developed a web app predicting metabolic syndrome risk using ML, featuring a FastAPI backend and a Next.js frontend. ([Frontend Repo](https://github.com/raveenadhikari/HealthPeak))
 *   **[BookHive - Mobile Reading Community](https://github.com/raveenadhikari/BookHive)** `(React Native, Firebase Auth, Cloud Firestore)`: Created a cross-platform mobile app as a Goodreads alternative for the Sri Lankan reading community.
@@ -126,7 +131,7 @@ I'm always eager to learn and expand my skillset:
 
 I'm always open to collaborating on interesting projects or discussing technology. Feel free to reach out!
 
-*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raveenadhikari/)
+*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raveenadhikari/) <!-- Check if this is your correct LinkedIn profile URL -->
 *   [![Website](https://img.shields.io/badge/Portfolio-raveenadhikari.com-blue?style=for-the-badge)](https://raveenadhikari.com) <!-- Update if you have a different portfolio URL -->
 *   [![Email](https://img.shields.io/badge/Email-raveenrandika999@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raveenrandika999@gmail.com)
 

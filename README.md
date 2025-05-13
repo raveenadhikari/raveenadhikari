@@ -2,8 +2,9 @@
 
 <p align="center">
   <!-- ⭐ REPLACE placeholder-banner-gif-url.gif WITH THE RAW GITHUB URL FOR YOUR BANNER GIF ⭐ -->
+  <!-- Make sure you uploaded the GIF to this repo (e.g., in an 'assets' folder) and got the raw link -->
   <img src="placeholder-banner-gif-url.gif" width="400" alt="Coding Banner GIF"/>
-  <!-- Example: <img src="https://raw.githubusercontent.com/raveenadhikari/raveenadhikari/main/assets/my_cool_banner.gif" width="400"/> -->
+  <!-- Example: <img src="https://raw.githubusercontent.com/raveenadhikari/raveenadhikari/main/assets/my_banner.gif" width="400"/> -->
 </p>
 
 I'm a final-year **Electronics and IT** undergraduate at the **University of Colombo**, passionate about building impactful software solutions. My journey spans across **Full-Stack Development**, **Mobile Applications**, **AI/Machine Learning**, and **Embedded Systems/Robotics**. I thrive on tackling challenges and transforming ideas into reality through code.
@@ -24,94 +25,69 @@ I'm a final-year **Electronics and IT** undergraduate at the **University of Col
 
 Here's a glimpse of the technologies I work with:
 
-<details>
-  <summary><strong>Languages</strong></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  </p>
-</details>
+**Languages:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+</p>
+<br>
 
-<details>
-  <summary><strong>Frontend & Mobile</strong></summary>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </p>
-</details>
+**Frontend & Mobile:**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+<br>
 
-<details>
-  <summary><strong>Backend & Databases</strong></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-    <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  </p>
-</details>
+**Backend & Databases:**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+<br>
 
-<details>
-  <summary><strong>AI/ML & Data Science</strong></summary>
-  <p>
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/Joblib-212121?style=for-the-badge" alt="Joblib"/>
-     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  </p>
-</details>
+**AI/ML & Data Science:**
+<p>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Joblib-212121?style=for-the-badge" alt="Joblib"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+<br>
 
-<details>
-  <summary><strong>DevOps & Tools</strong></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <!-- Add Kubernetes badge when more familiar -->
-    <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> -->
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  </p>
-</details>
+**DevOps & Tools:**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <!-- Add Kubernetes badge when more familiar -->
+  <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> -->
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</p>
+<br>
 
-<details>
-  <summary><strong>Embedded & Hardware</strong></summary>
-  <p>
-    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino (Atmega328p)"/>
-    <img src="https://img.shields.io/badge/LoRa-203558?style=for-the-badge" alt="LoRa"/>
-     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  </p>
-</details>
-
----
-
-## ✨ Featured Projects
-
-Here are some projects I've enjoyed building:
-
-*   **[Autonomous Inspection Robot](https://github.com/raveenadhikari/Autonomous-inspection-robot)** `(ESP32, C++, Python, OpenCV, YOLOv3, LoRa)`: Built a wireless robot for real-time video streaming, object detection, and remote navigation via a custom GUI.
-    <p align="center">
-      <!-- ⭐ REPLACE placeholder-robot-gif-url.gif WITH THE RAW GITHUB URL FOR YOUR ROBOT/PROJECT GIF (Optional) ⭐ -->
-      <img src="placeholder-robot-gif-url.gif" width="250" alt="Robot Project GIF"/>
-      <!-- Example: <img src="https://raw.githubusercontent.com/raveenadhikari/raveenadhikari/main/assets/my_robot_project.gif" width="250"/> -->
-      <!-- OR remove this <p> block entirely if you don't want a GIF here -->
-    </p>
-*   **[HealthPeek - Metabolic Syndrome Predictor](https://github.com/raveenadhikari/HealthPeak-API)** `(Python, FastAPI, Scikit-learn, Next.js, React)`: Developed a web app predicting metabolic syndrome risk using ML, featuring a FastAPI backend and a Next.js frontend. ([Frontend Repo](https://github.com/raveenadhikari/HealthPeak))
-*   **[BookHive - Mobile Reading Community](https://github.com/raveenadhikari/BookHive)** `(React Native, Firebase Auth, Cloud Firestore)`: Created a cross-platform mobile app as a Goodreads alternative for the Sri Lankan reading community.
-*   **[Lab Inventory Management System](https://github.com/raveenadhikari/UOCLabs)** `(PHP, CodeIgniter, MySQL, Javascript)`: Digitalized university lab inventory records with a role-based web application.
-*   **[Smart Energy Meter](https://github.com/raveenadhikari/Smart-Energy-Meter)** `(C, Atmega328p, Python, Bluetooth)`: Programmed a microcontroller to measure electrical parameters and send data via Bluetooth to a Python dashboard.
+**Embedded & Hardware:**
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino (Atmega328p)"/>
+  <img src="https://img.shields.io/badge/LoRa-203558?style=for-the-badge" alt="LoRa"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
 
 ---
 

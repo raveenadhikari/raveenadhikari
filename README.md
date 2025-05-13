@@ -1,9 +1,10 @@
 # Hi there, I'm Raveen Adhikari 👋
 
 <p align="center">
-  <!-- ⭐ REPLACE placeholder-banner-gif-url.gif WITH THE RAW GITHUB URL FOR YOUR BANNER GIF ⭐ -->
-  <!-- Make sure you uploaded the GIF to this repo (e.g., in an 'assets' folder) and got the raw link -->
-  <img src="placeholder-banner-gif-url.gif" width="400" alt="Coding Banner GIF"/>
+  <!-- Option 1: Matrix Style -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo5cW5jbnZ5dGl4cHBoZzNpcG5nOTQ1ZnVrbTNtdzU3dzRta25hcyZlcD12ZnBfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1pbx/giphy.gif" width="300" alt="Coding Matrix Animation"/>
+
+  <!-- OR Upload your own GIF to this repo (e.g. assets/banner.gif) and replace the src above with its raw link: -->
   <!-- Example: <img src="https://raw.githubusercontent.com/raveenadhikari/raveenadhikari/main/assets/my_banner.gif" width="400"/> -->
 </p>
 

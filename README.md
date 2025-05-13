@@ -55,6 +55,6 @@ Massive bookworm! 📚 If you're into books (especially Sci-Fi or Fantasy!), we 
 <!-- Optional: Add GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raveenadhikari&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Raveen's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raveenadhikari&theme=radical&hide_border=true" alt="Raveen's GitHub Streak" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveenadhikari&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Raveen's Top Languages" />
 </p>
